@@ -10,7 +10,7 @@ const raleway = Raleway({
 });
 
 export const metadata: Metadata = {
-  title: "Home | Jeenios",
+  title: "Home",
   description: "Booking Online",
 };
 
